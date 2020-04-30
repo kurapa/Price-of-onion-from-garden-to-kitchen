@@ -42,7 +42,7 @@ li a{
 /*Header and Title*/
 .header{
 	display: flex;
-	background-image:url(asserts/title.jpg);
+	background-image:url(/asserts/title.jpg);
 	background-repeat:no-repeat;
 	background-size:100%;
 	-webkit-background-size:100%;
