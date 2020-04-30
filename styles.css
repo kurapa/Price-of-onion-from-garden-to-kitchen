@@ -42,7 +42,7 @@ li a{
 /*Header and Title*/
 .header{
 	display: flex;
-	background-image:url(https://github.com/kurapa/Price-of-onion-from-garden-to-kitchen/blob/master/ASSERTS/title.jpg);
+	background-image:url(./ASSERTS/title.jpg);
 	background-repeat:no-repeat;
 	background-size:100%;
 	-webkit-background-size:100%;
