@@ -44,11 +44,11 @@ li a{
 	display: flex;
 	background-image:url(https://raw.githubusercontent.com/kurapa/Price-of-onion-from-garden-to-kitchen/master/ASSERTS/title.jpg);
 	background-repeat:no-repeat;
-	background-size:100%;
-	-webkit-background-size:100%;
-	-moz-background-size:100%;
-	-o-background-size:100%;
-	-ms-background-size:100%;
+	background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
 	min-height:600px;
 	position: relative;
 	}
